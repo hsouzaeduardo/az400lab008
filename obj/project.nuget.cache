@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PpgBlO8ubyZewwTRKB4MGJF/8OZcW6kJqy/CZ4POW/5zhqFyh/XPlVnIGJnHWb1ZCHUJ0w8BzVO8uknJxSC/TA==",
+  "success": true,
+  "projectFilePath": "E:\\Cursos\\AZ-400\\Labs\\Lab06\\az400lab008\\az400lab008.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hsouz\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
